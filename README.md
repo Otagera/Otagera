@@ -1,4 +1,7 @@
-### Hi there 👋
+### `Hi there, I'm Othniel 👋`
+I'm a Software developer passionate about writing good clean softwares using best practices, while aiming for the very best user experience possible.
+
+I have been into software development in a little over 2 years, with web development in the past year. I enjoy working with technologies such as Javascript, React, Node, MongoDB, etc.
 
 <!--
 **Otagera/Otagera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
