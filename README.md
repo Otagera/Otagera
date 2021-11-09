@@ -2,6 +2,10 @@
 I'm a Software developer passionate about writing good clean softwares using best practices, while aiming for the very best user experience possible.
 
 I have been into software development in a little over 2 years, with web development in the past year. I enjoy working with technologies such as Javascript, Typescript, React, Node, MongoDB, PostgreSQL, Redis, etc
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Otagera&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otagera&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
