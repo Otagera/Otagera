@@ -1,4 +1,6 @@
-### `Hi there, I'm Othniel 👋`
+[![banner (2)](https://user-images.githubusercontent.com/32098712/140918445-f40dda8d-8dd3-478c-976b-fabfa4624312.png)](https://github.com/Otagera)
+
+<!--### `Hi there, I'm Othniel 👋` -->
 I'm a Software developer passionate about writing good clean softwares using best practices, while aiming for the very best user experience possible.
 
 I have been into software development in a little over 2 years, with web development in the past year. I enjoy working with technologies such as Javascript, Typescript, React, Node, MongoDB, PostgreSQL, Redis, etc
