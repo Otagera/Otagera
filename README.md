@@ -24,4 +24,6 @@ I have been into software development in a little over 2 years, with web develop
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React Double-tap Text to Input.](https://dev.to/leolenzo_37/react-double-tap-text-to-input-3nk7)
+- [Typescript Concurrent Compilation and Execution on Sublime Text 3](https://dev.to/leolenzo_37/typescript-concurrent-compilation-and-execution-on-sublime-text-3-2bo0)
 <!-- BLOG-POST-LIST:END -->
